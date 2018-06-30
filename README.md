@@ -6,7 +6,7 @@ This is a work-based project I have been working on at my current job and is aim
 
 The aim of the script is to automate a regression test plan consisting of 100+ scenarios that was previously being executed manually. Time to commpletion when manually executed: 4+ hours. Time to completion when automated: ~16'.
 
-### All sensitive information that has been removed or replaced using various conventions such as:
+### All sensitive information has been removed or replaced using various conventions such as:
 
 ```
 #removed, foobar, etc.
