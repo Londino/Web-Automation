@@ -1,4 +1,4 @@
-# Web Automation in Ruby using WATIR & Rspec frameworks.
+# Automated Regression Testing.
 
 This is a work-based project I have been working on at my current job and is aimed at demonstrating my scripting abilities at web automation.
 
